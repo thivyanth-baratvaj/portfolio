@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { SiNextdotjs } from "react-icons/si";
 import Javascript from "../../Assets/TechIcons/Javascript.svg";
