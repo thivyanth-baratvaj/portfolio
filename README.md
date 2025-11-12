@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://thivyanth-portfolio.vercel.app" target="_blank">thivyanth.tech</a>
@@ -68,3 +69,6 @@ You’ll find projects such as:
 1️⃣ **Clone the repository**
 ```bash
 git clone https://github.com/thivyanth-baratvaj/portfolio.git
+=======
+# portfolio
+>>>>>>> 85cd4e5c8b45efbc51b9740d80cc32f3c915dcc5
